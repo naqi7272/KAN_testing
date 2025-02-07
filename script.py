@@ -556,7 +556,7 @@ grb_names = [
 
 
 # Path to the Python script
-script_path = "run.py\ new.py"
+script_path = "run.py"
 
 # Loop through the GRB Names and run the script
 for index in tqdm(range(len(grb_names))):
