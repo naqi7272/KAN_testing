@@ -1,0 +1,8 @@
+tqdm
+scikit-learn
+pykan
+pandas
+numpy
+scipy
+lmfit
+matplotlib
